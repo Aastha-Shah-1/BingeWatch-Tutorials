@@ -1,2 +1,3 @@
-# BingeWatch-Tutorials
-This repository will contain some basic and essential details about most of the technologies that have flourished the market in 2020. With these beside you, it will be simple to understand what goes around in each technology! Ace your career!
+# Node JS
+Thinking about being ahead of everyone on the learning curve but don't know where to begin? This might be the right place for you! This repository contains the essential and most important details to start with Node JS. 
+# Jump Right in!
